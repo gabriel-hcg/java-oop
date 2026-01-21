@@ -17,7 +17,7 @@ This repository organizes all practical Object-Oriented Programming exercises
 in Java, developed during my backend studies to reinforce my learning.
 
 ### Topics
-- OOP introduction
-- Encapsulation
-- Inheritance
-- Polymorphism
+- OOP introduction;
+- Encapsulation;
+- Inheritance;
+- Polymorphism.
